@@ -1,0 +1,17 @@
+body{
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    color: blueviolet;
+    display: flex;
+    align-items: center;
+}
+
+h2{
+    color: blueviolet;
+}
